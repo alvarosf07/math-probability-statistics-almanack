@@ -2,7 +2,7 @@ You are given N variables $x_{1,t},...,x_{N,t}$  which we observe at different d
 Our goal is to explain a variable yt using linear regression, that is,
 <br/>
 
-$y=a+&sum;$ $I_k&beta;_k$ $x_{k,t}+&epsilon;_t$
+$y=a+&sum;$ $I_k &beta;_k$ $x_{k,t}+&epsilon;_t$
 
 <br/>
 where &epsilon; is an error term, $I$ is an indicator variable that equals 1 if the variable $x_k$ is included in the
