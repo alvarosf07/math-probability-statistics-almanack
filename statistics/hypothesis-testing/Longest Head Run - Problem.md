@@ -4,8 +4,9 @@ A coin is tossed n times, thereby generating a sequence of heads (H) and tails (
 
 $HHTHTTHHHHTTTHHTTTTH$
 
-<br/>
 of length n = 20 contains 5 runs of heads with lengths 2,1,4,2,1, respectively. The longest run of heads is 4.
+
+<br/>
 
 -  Write an efficient function (in R or Python) that generates random sequences of heads and tails for any value of n.
 -  Write an efficient function that computes the length of the longest run of heads in an arbitrary sequence of heads and tails.
