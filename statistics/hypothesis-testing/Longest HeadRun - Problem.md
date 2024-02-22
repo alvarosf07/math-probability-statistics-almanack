@@ -1,7 +1,7 @@
 # Longest run of heads in a sequence of coin tosses
 A coin is tossed n times, thereby generating a sequence of heads (H) and tails (T). A subsequence of consecutive heads is called a run of heads. Consequently, the following sequence: 
 <br/>
-HHTHTTHHHHTTTHHTTTTH 
+$ HHTHTTHHHHTTTHHTTTTH $
 <br/>
 of length n = 20 contains 5 runs of heads with lengths 2,1,4,2,1, respectively. The longest run of heads is 4.
 
