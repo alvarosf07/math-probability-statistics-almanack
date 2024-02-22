@@ -10,9 +10,6 @@ ordinary least squares can be applied to estimate the coefficients $k$.
 As an example, assume we have N=4 and choose $I_1 = I_4 = 1$ and $I_2 = I_3 = 0$, the resulting model is
 $y_t = a + &beta;_1 x_{1,t} + &beta;_4 x_{4,t} + &epsilon; $. In the following, we consider the general case with N variables.
 
-Please do not use any package/library for this exercise.
-
-
 - How many different models (i.e., combinations of variables) can you construct using the N variables $x_1, ..., x_N$?
 - How would you perform model selection? That is, which regression model would you select as the
   "best" model among the linear models in this family? You do not have to implement this part.
