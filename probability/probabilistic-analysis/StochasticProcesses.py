@@ -540,6 +540,7 @@ print("The probability of starting at state:'Static' and ending at state:'Static
 
 # %% [markdown]
 # ### References
+# Source: https://www.kaggle.com/code/stephen924/
 # 1. https://fromosia.wordpress.com/2017/03/19/stochastic-poisson-process/
 # 2. https://fromosia.wordpress.com/2017/03/09/stochastic-process/
 # 3. https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial
