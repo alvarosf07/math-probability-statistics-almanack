@@ -1,1 +1,0 @@
-<iframe src="https://www.kaggle.com/embed/stephen924/stochastic-processes-and-applications?kernelSessionId=3894460" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Stochastic Processes and Applications"></iframe>
