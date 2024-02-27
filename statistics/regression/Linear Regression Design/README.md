@@ -1,4 +1,4 @@
-Problem:
+# Problem:
 
 You are given N variables $x_{1,t},...,x_{N,t}$  which we observe at different discrete points in time t. 
 Our goal is to explain a variable yt using linear regression, that is,
