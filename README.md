@@ -1,2 +1,2 @@
 # math-probability-statistics-almanack
-Collection of my personal projects related to math, probability and statistics.
+Non-curated collection of personal projects related to math, probability and statistics.
