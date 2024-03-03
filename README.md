@@ -1,4 +1,4 @@
-# math-probability-statistics-almanack
+# Math, Probability & Statistics Almanack
 Non-curated collection of personal projects related to math, probability and statistics.
 
 ## Contents & Structure
