@@ -1,8 +1,7 @@
 # Math, Probability & Statistics Almanack
-Non-curated collection of personal projects related to math, probability and statistics.
+Non-curated collection of personal projects related to probability, statistics and ML.
 
 ## Contents & Structure
-* Math
 * Probability
   * Probabilistic Analysis
     * [Monte Carlo Probabilistic Analysis - Risk](probability/probabilistic-analysis/MonteCarloProbabilisticAnalysis_Risk.ipynb)
@@ -22,3 +21,5 @@ Non-curated collection of personal projects related to math, probability and sta
     * [Linear Regression](/statistics/regression/LinearRegression.ipynb)
     * [Linear Regression Design](/statistics/regression/Linear%20Regression%20Design)
     * [Logistic Regression and Clustering](/statistics/regression/LogisticRegression_Clustering.ipynb)
+
+* Machine Learning
