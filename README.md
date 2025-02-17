@@ -1,4 +1,4 @@
-# Math, Probability & Statistics Almanack
+# Probability, Statistics & ML Almanack
 Non-curated collection of personal projects related to probability, statistics and ML.
 
 ## Contents & Structure
