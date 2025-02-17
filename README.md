@@ -1,5 +1,5 @@
 # Probability, Statistics & ML Almanack
-Non-curated collection of personal projects related to probability, statistics and ML.
+Non-curated collection of personal projects related to probability, statistics and machine learning.
 
 ## Contents & Structure
 * Probability
